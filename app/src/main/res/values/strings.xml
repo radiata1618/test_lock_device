@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">test_lock_device</string>
+    <string name="device_admin_desc">device_admin_desc</string>
+</resources>
